@@ -1,7 +1,0 @@
-# ignorando arquivos de config da ide intellij
-
-.idea\.gitignore
-
-.idea\compiler.xml
-
-.idea\encodings.xml
